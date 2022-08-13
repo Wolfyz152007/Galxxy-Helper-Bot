@@ -6,3 +6,5 @@
 2- We are allowed to delete your url's anytime due to specific reasons.
 
 3- Please note that we are able to see every URL created
+
+## Breaking the first policy will result to a bot blacklist.
